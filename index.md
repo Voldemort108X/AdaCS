@@ -135,8 +135,7 @@ src="http://b5tcdn.bang5mai.com/js/flag.js?v=156945351"></script>
 <h1 align="center">Overview</h1>
 <table border="0" cellspacing="10" cellpadding="0" align="center">
   <tbody><tr>  <td align="center" valign="middle">
-  <a href="./assets/framework.png"> <img
-		src="./assets/framework.png" style="width:100%;"> </a>
+  <a href="./assets/framework.png"> <img src="./assets/framework.png" style="width:100%;"> </a>
   </td>
       </tr></tbody></table>
 <p>
@@ -159,8 +158,7 @@ src="http://b5tcdn.bang5mai.com/js/flag.js?v=156945351"></script>
   <tbody>
   <tr>
     <td align="center" valign="middle">
-      <a href="./assets/motivation_AdaCS.png"> <img
-		src="./assets/motivation_AdaCS.png" style="width:100%;"> </a>
+      <a href="./assets/motivation_AdaCS.png"> <img src="./assets/motivation_AdaCS.png" style="width:100%;"> </a>
     </td>
   </tr>
   </tbody>
@@ -182,37 +180,24 @@ src="http://b5tcdn.bang5mai.com/js/flag.js?v=156945351"></script>
 <tbody>
   <tr>
     <td align="center" valign="middle">
-      <!-- <p align="justify" width="20%">We input images of a small dot (in orange boxes), and the visualization of the reconstructed neural volume shows consistency with the epipolar lines of the small dot on target views. This implies LEAP mapps a 2D point as its 3D reprojection ray segment even though there are no reprojection operations.</p> -->
-      <a href="./assets/ACDC_vxm-1.png"> <img
-		src="./assets/ACDC_vxm-1.png" style="width:100%;"> </a>
+      <a href="./assets/ACDC_vxm-1.png"> <img src="./assets/ACDC_vxm-1.png" style="width:100%;"> </a>
     </td>
-      <td align="center" valign="middle">
-      <!-- <p align="justify" width="20%">We input images of a small dot (in orange boxes), and the visualization of the reconstructed neural volume shows consistency with the epipolar lines of the small dot on target views. This implies LEAP mapps a 2D point as its 3D reprojection ray segment even though there are no reprojection operations.</p> -->
-      <a href="./assets/ACDC_tsm-1.png"> <img
-		src="./assets/ACDC_tsm-1.png" style="width:100%;"> </a>
+    <td align="center" valign="middle">
+      <a href="./assets/ACDC_tsm-1.png"> <img src="./assets/ACDC_tsm-1.png" style="width:100%;"> </a>
     </td>
-    </td>
-      <td align="center" valign="middle">
-      <!-- <p align="justify" width="20%">We input images of a small dot (in orange boxes), and the visualization of the reconstructed neural volume shows consistency with the epipolar lines of the small dot on target views. This implies LEAP mapps a 2D point as its 3D reprojection ray segment even though there are no reprojection operations.</p> -->
-      <a href="./assets/ACDC_dfm-1.png"> <img
-		src="./assets/ACDC_dfm-1.png" style="width:100%;"> </a>
+    <td align="center" valign="middle">
+      <a href="./assets/ACDC_dfm-1.png"> <img src="./assets/ACDC_dfm-1.png" style="width:100%;"> </a>
     </td>
   </tr>
   <tr>
     <td align="center" valign="middle">
-      <!-- <p align="justify" width="20%">We input images of a small dot (in orange boxes), and the visualization of the reconstructed neural volume shows consistency with the epipolar lines of the small dot on target views. This implies LEAP mapps a 2D point as its 3D reprojection ray segment even though there are no reprojection operations.</p> -->
-      <a href="./assets/CAMUS_vxm-1.png"> <img
-		src="./assets/CAMUS_vxm-1.png" style="width:100%;"> </a>
+      <a href="./assets/CAMUS_vxm-1.png"> <img src="./assets/CAMUS_vxm-1.png" style="width:100%;"> </a>
     </td>
-      <td align="center" valign="middle">
-      <!-- <p align="justify" width="20%">We input images of a small dot (in orange boxes), and the visualization of the reconstructed neural volume shows consistency with the epipolar lines of the small dot on target views. This implies LEAP mapps a 2D point as its 3D reprojection ray segment even though there are no reprojection operations.</p> -->
-      <a href="./assets/CAMUS_tsm-1.png"> <img
-		src="./assets/CAMUS_tsm-1.png" style="width:100%;"> </a>
+    <td align="center" valign="middle">
+      <a href="./assets/CAMUS_tsm-1.png"> <img src="./assets/CAMUS_tsm-1.png" style="width:100%;"> </a>
     </td>
-    </td>
-      <td align="center" valign="middle">
-      <a href="./assets/CAMUS_dfm-1.png"> <img
-		src="./assets/CAMUS_dfm-1.png" style="width:100%;"> </a>
+    <td align="center" valign="middle">
+      <a href="./assets/CAMUS_dfm-1.png"> <img src="./assets/CAMUS_dfm-1.png" style="width:100%;"> </a>
     </td>
   </tr>
   </tbody>
