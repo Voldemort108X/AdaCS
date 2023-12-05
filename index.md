@@ -238,12 +238,12 @@ src="http://b5tcdn.bang5mai.com/js/flag.js?v=156945351"></script>
                   <left>
 <pre><code style="display:block; overflow-x: auto">
 @misc{zhang_adaptive_2023,
-	title = {An {Adaptive} {Correspondence} {Scoring} {Framework} for {Unsupervised} {Image} {Registration} of {Medical} {Images}},
-	url = {http://arxiv.org/abs/2312.00837},
-	publisher = {arXiv},
-	author = {Zhang, Xiaoran and Stendahl, John C. and Staib, Lawrence and Sinusas, Albert J. and Wong, Alex and Duncan, James S.},
+  title = {An {Adaptive} {Correspondence} {Scoring} {Framework} for {Unsupervised} {Image} {Registration} of {Medical} {Images}},
+  url = {http://arxiv.org/abs/2312.00837},
+  publisher = {arXiv},
+  author = {Zhang, Xiaoran and Stendahl, John C. and Staib, Lawrence and Sinusas, Albert J. and Wong, Alex and Duncan, James S.},
+  year = {2023},
   note = {arXiv:2312.00837 [cs, eess]},
-	year = {2023},
 }
 </code></pre>
 </left></td></tr></table>
