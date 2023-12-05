@@ -124,7 +124,7 @@ src="http://b5tcdn.bang5mai.com/js/flag.js?v=156945351"></script>
     <center><h2>
         <a href="https://medicine.yale.edu/bioimaging/ipa/">Yale University</a>&nbsp;&nbsp;&nbsp; 		
     </h2></center>
-	<center><h2><a href="">Paper</a> | <a href="https://github.com/Voldemort108X/AdaCS">Code</a> </h2></center>
+	<center><h2><a href="https://arxiv.org/abs/2312.00837">Paper</a> | <a href="https://github.com/Voldemort108X/AdaCS">Code</a> </h2></center>
 <br>
 
 
@@ -237,13 +237,14 @@ src="http://b5tcdn.bang5mai.com/js/flag.js?v=156945351"></script>
                   <td>
                   <left>
 <pre><code style="display:block; overflow-x: auto">
-<!-- @article{jiang2022LEAP,
-   title={LEAP: Liberate Sparse-view 3D Modeling from Camera Poses},
-   author={Jiang, Hanwen and Jiang, Zhenyu and Zhao, Yue and Huang, Qixing},
-   journal={ArXiv},
-   year={2023},
-   volume={2310.01410}
-} -->
+@misc{zhang_adaptive_2023,
+	title = {An {Adaptive} {Correspondence} {Scoring} {Framework} for {Unsupervised} {Image} {Registration} of {Medical} {Images}},
+	url = {http://arxiv.org/abs/2312.00837},
+	publisher = {arXiv},
+	author = {Zhang, Xiaoran and Stendahl, John C. and Staib, Lawrence and Sinusas, Albert J. and Wong, Alex and Duncan, James S.},
+  note = {arXiv:2312.00837 [cs, eess]},
+	year = {2023},
+}
 </code></pre>
 </left></td></tr></table>
 
