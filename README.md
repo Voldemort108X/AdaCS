@@ -1,2 +1,2 @@
-# An Adaptive Correspondence Scoring Framework for Unsupervised Image Registration of Medical Images
+# Adaptive Correspondence Scoring for Unsupervised Medical Image Registration
 
