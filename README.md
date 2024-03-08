@@ -1,10 +1,10 @@
 # Adaptive Correspondence Scoring for Unsupervised Medical Image Registration
 
 ## Motivation
-![Motivation](assets/motivation.png "Motivation")
+<img src="assets/motivation.png" width="1000">
 
 ## Framework
-![Framework](assets/framework.png "Framework")
+<img src="assets/framework.png" width="1000">
 
 ## Installation
 ```
