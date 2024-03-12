@@ -18,7 +18,7 @@ if curv is None or version.parse(curv) < version.parse(minv):
                       f'but found version {curv}')
 
 # move on the actual voxelmorph imports
-from . import generators, generators_echo, generators_clinical_echo, generators_2D
+from . import generators, generators_echo, generators_2D
 from . import py
 from .py.utils import default_unet_features
 

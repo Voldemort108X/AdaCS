@@ -317,9 +317,9 @@ class ConvBlock(nn.Module):
 
 
 
-class CoVisNet(LoadableModel):
+class ScoringNet(LoadableModel):
     """
-    CoVisibility Network that takes one input and outputs a soft scoring mask to show the visibility scoring
+    Scoring estimator that takes one input and outputs a soft scoring mask to show the visibility scoring
     """
     @store_config_args
     def __init__(self,

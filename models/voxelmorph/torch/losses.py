@@ -168,7 +168,7 @@ class WeightedMSE:
         return torch.mean(torch.mul((y_true - y_pred) ** 2, scoring_mask))
 
 
-class CoVisWeightedMSE:
+class ScoringWeightedMSE:
     """
     Weighted mean squared error loss.
     """
@@ -201,7 +201,7 @@ class ScoringLoss:
         return torch.mean((scoring_mask - ones_mask) ** 2)
 
 
-class CoVisTVLoss:
+class ScoringTVLoss:
     def __init__(self, ndims):
         self.ndims = ndims
 

@@ -7,7 +7,7 @@ import numpy as np
 import scipy
 from skimage import measure
 from scipy.io import loadmat, savemat
-import mat73
+# import mat73
 
 # local/our imports
 import pystrum.pynd.ndutils as nd
@@ -46,10 +46,10 @@ def load_volfile_mat(
         raise ValueError("'%s' is not a file." % filename)
 
     if filename.endswith('.mat'):
-        try:
-            file = loadmat(filename)
-        except:
-            file = mat73.loadmat(filename)
+        # try:
+        file = loadmat(filename)
+        # except:
+        #     file = mat73.loadmat(filename)
 
         # for porcine data where ED/ES franes are labelled
         if 'ED_idx' in file.keys():
@@ -223,10 +223,10 @@ def load_volfile_mat_3frame(
         raise ValueError("'%s' is not a file." % filename)
 
     if filename.endswith('.mat'):
-        try:
-            file = loadmat(filename)
-        except:
-            file = mat73.loadmat(filename)
+        # try:
+        file = loadmat(filename)
+        # except:
+            # file = mat73.loadmat(filename)
 
         # for porcine data where ED/ES franes are labelled
         if 'ED_idx' in file.keys():

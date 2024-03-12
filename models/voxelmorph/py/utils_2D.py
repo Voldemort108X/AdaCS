@@ -7,7 +7,7 @@ import numpy as np
 import scipy
 from skimage import measure
 from scipy.io import loadmat, savemat
-import mat73
+
 
 # local/our imports
 import pystrum.pynd.ndutils as nd
@@ -46,10 +46,8 @@ def load_imfile_mat(
         raise ValueError("'%s' is not a file." % filename)
 
     if filename.endswith('.mat'):
-        try:
-            file = loadmat(filename)
-        except:
-            file = mat73.loadmat(filename)
+        file = loadmat(filename)
+            
 
         # for CAMUS/ACDC dataset
         im_ED = file['im_ED']
