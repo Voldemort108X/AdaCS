@@ -1,7 +1,6 @@
 import torch
 import numpy as np
 
-# some of the code borrowed from https://github.com/danpak94/Deep-Cardiac-Volumetric-Mesh/blob/main/dcvm/transforms/img_transforms.py
 class DimensionConverterDP():
     '''
     going to and from [0, dim_size] and [-1, 1]
