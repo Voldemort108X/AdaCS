@@ -17,7 +17,7 @@ conda activate AdaCS_env
 ```
 
 ## Dataset
-
+Please download ACDC dataset [[website]](https://www.creatis.insa-lyon.fr/Challenge/acdc/databases.html) and CAMUS dataset [[website]](https://www.creatis.insa-lyon.fr/Challenge/camus/) from their websites.
 
 ## Default directory structure
     ├── Dataset                   
