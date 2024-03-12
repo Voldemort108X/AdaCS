@@ -35,20 +35,10 @@ conda activate AdaCS_env
     |   |   ├── train_tsm.py
     |   |   ├── ...
 
-## Train AdaCS
-### vxm+AdaCS
+## Train
+We currently support voxelmorph-based approach for review purpose and we will open-source other architectures upon acceptance.
 ```
 python train_vxm.py --dataset YOUR_DATASET  --bidir --model-dir YOUR_MODEL_SAVE_DIR --motion-loss-type 'wmse' --scoring-loss-type 'scoringwmse'  --warm_start --wandb-name YOUR_PROJECT_NAME 
-```
-
-
-### tsm+AdaCS
-```
-
-```
-
-### dfm+AdaCS
-```
 ```
 
 
