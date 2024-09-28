@@ -112,7 +112,7 @@ src="http://b5tcdn.bang5mai.com/js/flag.js?v=156945351"></script>
 <body data-gr-c-s-loaded="true">
 
 <div id="primarycontent">
-<center><h1><strong><br>An Adaptive Correspondence Scoring Framework for Unsupervised Image Registration of Medical Images</strong></h1></center>
+<center><h1><strong><br>Adaptive Correspondence Scoring for Unsupervised Medical Image Registration</strong></h1></center>
 <center><h2>
     <a href="https://xiaoranzhang.com/">Xiaoran Zhang</a>&nbsp;&nbsp;&nbsp;
     <a href="https://medicine.yale.edu/profile/john-stendahl/">John C. Stendahl</a>&nbsp;&nbsp;&nbsp;
@@ -123,7 +123,12 @@ src="http://b5tcdn.bang5mai.com/js/flag.js?v=156945351"></script>
    </h2>
     <center><h2>
         <a href="https://medicine.yale.edu/bioimaging/ipa/">Yale University</a>&nbsp;&nbsp;&nbsp; 		
-    </h2></center>
+    </h2>
+    </center>
+    <center><h2>
+    ECCV 2024 Oral
+    </h2>
+    </center>
 	<center><h2><a href="https://arxiv.org/abs/2312.00837">Paper</a> | <a href="https://github.com/Voldemort108X/AdaCS">Code coming soon</a> </h2></center>
 <br>
 
@@ -231,12 +236,12 @@ src="http://b5tcdn.bang5mai.com/js/flag.js?v=156945351"></script>
 
 <hr>
 <!-- <table align=center width=800px> <tr> <td> <left> -->
-<center><h1>Citation</h1></center>
-<table align=center width=800px>
-              <tr>
-                  <td>
-                  <left>
-<pre><code style="display:block; overflow-x: auto">
+<h1 style="text-align: center;">Citation</h1>
+<table align="center" style="max-width: 100%; width: auto;">
+  <tr>
+    <td>
+      <pre style="white-space: pre-wrap; word-wrap: break-word;">
+<code>
 @misc{zhang_adaptive_2023,
   title = {An {Adaptive} {Correspondence} {Scoring} {Framework} for {Unsupervised} {Image} {Registration} of {Medical} {Images}},
   url = {http://arxiv.org/abs/2312.00837},
@@ -244,9 +249,12 @@ src="http://b5tcdn.bang5mai.com/js/flag.js?v=156945351"></script>
   author = {Zhang, Xiaoran and Stendahl, John C. and Staib, Lawrence and Sinusas, Albert J. and Wong, Alex and Duncan, James S.},
   year = {2023},
   note = {arXiv:2312.00837 [cs, eess]},
-}
-</code></pre>
-</left></td></tr></table>
+</code>
+      </pre>
+    </td>
+  </tr>
+</table>
+
 
 
 
