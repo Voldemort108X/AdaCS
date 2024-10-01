@@ -1,6 +1,6 @@
 # Adaptive Correspondence Scoring for Unsupervised Medical Image Registration
 
-## [[Paper]](https://arxiv.org/abs/2312.00837) [[Project page]](https://voldemort108x.github.io/AdaCS/) [[Poster]](assets/ECCV%202024%20Poster.pdf)
+## [[Paper]](https://arxiv.org/abs/2312.00837) [[Project page]](https://voldemort108x.github.io/AdaCS/) [[Poster]](assets/ECCV%202024%20Poster.pdf) [[Slides]](assets/ECCV%202024%20Oral%20Talk.pdf)
 
 ## Motivation
 <img src="assets/motivation.png" width="1000">
