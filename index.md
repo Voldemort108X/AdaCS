@@ -129,7 +129,7 @@ src="http://b5tcdn.bang5mai.com/js/flag.js?v=156945351"></script>
     ECCV 2024 Oral
     </h2>
     </center>
-	<center><h2><a href="https://arxiv.org/abs/2312.00837">Paper</a> | <a href="https://github.com/Voldemort108X/AdaCS">Code coming soon</a> </h2></center>
+	<center><h2><a href="https://arxiv.org/abs/2312.00837">Paper</a> | <a href="https://github.com/Voldemort108X/AdaCS">Code</a> | <a href="https://github.com/Voldemort108X/AdaCS/blob/main/assets/ECCV%202024%20Poster.pdf">Poster</a> | <a href="https://github.com/Voldemort108X/AdaCS/blob/main/assets/ECCV%202024%20Oral%20Talk.pdf">Slides</a> </h2></center>
 <br>
 
 
