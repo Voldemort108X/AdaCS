@@ -9,7 +9,7 @@
 <img src="assets/framework.png" width="1000">
 
 ## Todo
-[Oct. 2024] - We are in the process of organizing our repository.
+[Dec. 2024] - We are in the process of organizing our repository.
 
 ## Installation
 Please pip install any other missing packages.
@@ -51,6 +51,19 @@ python train_vxm.py --dataset YOUR_DATASET  --bidir --model-dir YOUR_MODEL_SAVE_
 ```
 python test_vxm.py --dataset YOUR_DATASET --test-dir '../../Dataset/ACDC/test/' --result-dir YOUR_RESULT_SAVE_DIR --model-motion YOUR_SAVED_MOTION_WEIGHT --model-scoring YOUR_SAVED_SCORING_WEIGHT --inshape 128 128
 ```
+
+## Citation
+```
+@inproceedings{zhang2024adaptive,
+  title={Adaptive Correspondence Scoring for Unsupervised Medical Image Registration},
+  author={Zhang, Xiaoran and Stendahl, John C and Staib, Lawrence H and Sinusas, Albert J and Wong, Alex and Duncan, James S},
+  booktitle={European Conference on Computer Vision},
+  pages={76--92},
+  year={2024},
+  organization={Springer}
+}
+```
+
 
 ## Acknowledgement
 We use implementation of [Voxelmorph](https://github.com/voxelmorph/voxelmorph), [Transmorph](https://github.com/junyuchen245/TransMorph_Transformer_for_Medical_Image_Registration) and [Diffusemorph](https://github.com/DiffuseMorph/DiffuseMorph).
